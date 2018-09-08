@@ -1,4 +1,4 @@
-# Simple Todo List
+# Simple To do List
 
 The Meteor Tutorial app.
 
